@@ -16,6 +16,7 @@
 		558B63B62A683E2D00A101F1 /* LoginScreenAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 558B63B52A683E2D00A101F1 /* LoginScreenAppTests.swift */; };
 		558B63C02A683E2D00A101F1 /* LoginScreenAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 558B63BF2A683E2D00A101F1 /* LoginScreenAppUITests.swift */; };
 		558B63C22A683E2D00A101F1 /* LoginScreenAppUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 558B63C12A683E2D00A101F1 /* LoginScreenAppUITestsLaunchTests.swift */; };
+		558B63CF2A6843CE00A101F1 /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 558B63CE2A6843CE00A101F1 /* SecondViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		558B63BB2A683E2D00A101F1 /* LoginScreenAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = LoginScreenAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		558B63BF2A683E2D00A101F1 /* LoginScreenAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginScreenAppUITests.swift; sourceTree = "<group>"; };
 		558B63C12A683E2D00A101F1 /* LoginScreenAppUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginScreenAppUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		558B63CE2A6843CE00A101F1 /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				558B639E2A683E2C00A101F1 /* AppDelegate.swift */,
 				558B63A02A683E2C00A101F1 /* SceneDelegate.swift */,
 				558B63A22A683E2C00A101F1 /* ViewController.swift */,
+				558B63CE2A6843CE00A101F1 /* SecondViewController.swift */,
 				558B63A42A683E2C00A101F1 /* Main.storyboard */,
 				558B63A72A683E2D00A101F1 /* Assets.xcassets */,
 				558B63A92A683E2D00A101F1 /* LaunchScreen.storyboard */,
@@ -258,6 +261,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				558B63CF2A6843CE00A101F1 /* SecondViewController.swift in Sources */,
 				558B63A32A683E2C00A101F1 /* ViewController.swift in Sources */,
 				558B639F2A683E2C00A101F1 /* AppDelegate.swift in Sources */,
 				558B63A12A683E2C00A101F1 /* SceneDelegate.swift in Sources */,
