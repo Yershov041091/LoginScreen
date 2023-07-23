@@ -1,0 +1,27 @@
+
+/* Class = "UIButton"; configuration.title = "Signup here"; ObjectID = "2TC-QI-S9g"; */
+"2TC-QI-S9g.configuration.title" = "Signup here";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "2TC-QI-S9g"; */
+"2TC-QI-S9g.normalTitle" = "Button";
+
+/* Class = "UINavigationItem"; title = "Second"; ObjectID = "8lG-hd-rwZ"; */
+"8lG-hd-rwZ.title" = "Second";
+
+/* Class = "UITextField"; placeholder = "e-mail"; ObjectID = "CMg-Xx-Ebl"; */
+"CMg-Xx-Ebl.placeholder" = "e-mail";
+
+/* Class = "UIButton"; configuration.title = "Login"; ObjectID = "DaV-2Y-dZN"; */
+"DaV-2Y-dZN.configuration.title" = "Login";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "DaV-2Y-dZN"; */
+"DaV-2Y-dZN.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Welcome!"; ObjectID = "bJf-tG-7Pe"; */
+"bJf-tG-7Pe.text" = "Welcome!";
+
+/* Class = "UILabel"; text = "Don't have an account?"; ObjectID = "dTN-ZP-JpQ"; */
+"dTN-ZP-JpQ.text" = "Don't have an account?";
+
+/* Class = "UITextField"; placeholder = "passward"; ObjectID = "ge0-cU-yi4"; */
+"ge0-cU-yi4.placeholder" = "passward";

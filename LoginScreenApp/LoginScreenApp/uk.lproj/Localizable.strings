@@ -1,0 +1,11 @@
+/* 
+  Localizable.strings
+  LoginScreenApp
+
+  Created by Artem Yershov on 23.07.2023.
+  
+*/
+
+"Error" = "Помилка";
+"Wrong password or email" = "Не вірний пароль або e-mail";
+"Try againe!" = "Спробуй знов!";
