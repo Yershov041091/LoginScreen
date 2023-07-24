@@ -137,4 +137,8 @@ extension ViewController: UITextFieldDelegate {
             print("Uncknown")
         }
     }
+    func textFieldShouldReturn(_ textField: UITextField) -> Bool {
+        loginAction(textField)
+        return true
+    }
 }
