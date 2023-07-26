@@ -40,6 +40,10 @@ class ViewController: UIViewController {
         passwardTextField.delegate = self
         emailTextField.becomeFirstResponder()
     }
+    override func viewWillAppear(_ animated: Bool) {
+        emailTextField.text = ""
+        passwardTextField.text = ""
+    }
     
     //MARK: - Actions
     
